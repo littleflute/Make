@@ -1,0 +1,13 @@
+
+Personal Author: Karvinen, Tero,
+Title All: Make : sensors / Tero Karvinen, Kimmo Karvinen, Ville Valtokari. Sensors
+Author: Karvinen, Tero, Karvinen, Kimmo. Valtokari, Ville.
+Local Call Number: 681.25
+ISBN: 9781449368104
+Edition: First edition.
+Physical Description: xxi, 377 pages : color illustrations ; 24 cm
+Subject Term:
+Sensor networks -- Design and construction.
+Raspberry Pi (Computer)
+Arduino (Programmable controller)
+Holds: 0
